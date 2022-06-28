@@ -1,20 +1,9 @@
 ### :v: Hello :v:
 I am Georgi from Bulgaria. I live in Varna.
 
-<!--
-`README.md` (this file) appears on your GitHub profile.
--->
-🎓 I’m currently learning JavaScript at SoftUni Bulgaria => [Software University (SoftUni)](https://softuni.bg/) 🎓
+
+🎓 I`m student at Udemy from Bulgaria 🎓
       
-***Main Courses***
-
-  :heavy_check_mark: JS Basics
-
-
-  :heavy_check_mark: JS Fundamentals
- 
-   
-  :x: JS Advance => In progres. :)
 
   ### Frontend Technologies
 <div>
