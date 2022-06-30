@@ -16,7 +16,7 @@ I am Georgi from Bulgaria. I live in Varna.
 ### Backend Technologies
 
 <div>
-  <img src ="./images/mysql.svg" alt="mysql logo" width="7%" title='MYSQL'/>
+  <img src ="./images/mysql.svg" alt="mysql logo" width="5%" title='MYSQL'/>
   <img src ="./images/nodejs.svg" alt="Node logo" width="7%" title='Nodejs'/>
   <img src ="./images/mongodb.svg" alt="D3 logo" width="7%" title='MongoDB'/>
 </div>
