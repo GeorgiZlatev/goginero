@@ -1,6 +1,9 @@
 ### :v: Hello :v:
 I am Georgi from Bulgaria. I live in Varna.
-      
+
+
+🎓 I`m student at Udemy from Bulgaria 🎓
+
 
   ### Frontend Technologies
 <div>
@@ -16,4 +19,12 @@ I am Georgi from Bulgaria. I live in Varna.
   <img src ="./images/mysql.svg" alt="mysql logo" width="5%" title='MYSQL'/>
   <img src ="./images/nodejs.svg" alt="Node logo" width="7%" title='Nodejs'/>
   <img src ="./images/mongodb.svg" alt="D3 logo" width="7%" title='MongoDB'/>
+</div>
+
+### Tools
+
+<div>
+  <img src ="./images/visual-studio-code.svg" alt="mysql logo" width="5%" title='MYSQL'/>
+  <img src ="./images/sublime-text.svg" alt="Node logo" width="7%" title='Nodejs'/>
+  <img src ="./images/Atom_editor_logo.svg" alt="D3 logo" width="7%" title='MongoDB'/>
 </div>
