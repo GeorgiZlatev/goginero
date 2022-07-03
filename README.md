@@ -25,6 +25,6 @@ I am Georgi from Bulgaria. I live in Varna.
 
 <div>
   <img src ="./images/visual-studio-code.svg" alt="mysql logo" width="5%" title='MYSQL'/>
-  <img src ="./images/sublime-text.svg" alt="Node logo" width="7%" title='Nodejs'/>
-  <img src ="./images/Atom_editor_logo.svg" alt="D3 logo" width="7%" title='MongoDB'/>
+  <img src ="./images/sublime-text.svg" alt="Node logo" width="5%" title='Nodejs'/>
+  <img src ="./images/Atom_editor_logo.svg" alt="D3 logo" width="5%" title='MongoDB'/>
 </div>
