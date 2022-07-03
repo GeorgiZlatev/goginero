@@ -1,8 +1,5 @@
 ### :v: Hello :v:
 I am Georgi from Bulgaria. I live in Varna.
-
-
-🎓 I`m student at Udemy from Bulgaria 🎓
       
 
   ### Frontend Technologies
