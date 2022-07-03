@@ -17,6 +17,7 @@ I am Georgi from Bulgaria. I live in Varna.
 
 <div>
   <img src ="./images/mysql.svg" alt="mysql logo" width="5%" title='MySQL'/>
+  <img src ="./images/PostgreSQL_logo.3colors.svg" alt="PostgreSQL logo" width="5%" title='PostgreSQL'/>
   <img src ="./images/nodejs.svg" alt="Node logo" width="7%" title='Nodejs'/>
   <img src ="./images/mongodb.svg" alt="D3 logo" width="7%" title='MongoDB'/>
 </div>
