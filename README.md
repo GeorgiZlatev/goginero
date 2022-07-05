@@ -11,6 +11,7 @@ I am Georgi from Bulgaria. I live in Varna.
   <img src ="./images/css-3.svg" alt="CSS3 logo" width="5%" title='CSS3'/>
   <img src ="./images/bootstrap.svg" alt="Bootstrap logo" width="6%" title='Bootstrap'/>
   <img src ="./images/javascript.svg" alt="JavaScript logo" width="6%" title='JavaScript'/>
+  <img src ="./images/PHP-logo.svg" alt="PHP-logo logo" width="6%" title='PHP logo'/>
 <div>
 
 ### Backend Technologies
